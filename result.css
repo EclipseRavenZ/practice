@@ -1,0 +1,17 @@
+#贈る言葉 {
+    font-size: 28pt;
+}
+
+#btn {
+    font-size: 16pt;
+    background: transparent;
+    border: transparent;
+}
+
+#btn:hover {
+    cursor: pointer;
+}
+
+#btn img {
+    height: 20px;
+}

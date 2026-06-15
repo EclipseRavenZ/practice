@@ -1,0 +1,12 @@
+#btn {
+    background: transparent;
+    border: transparent;
+}
+
+#btn:hover {
+    cursor: pointer;
+}
+
+#btn img {
+    width: 200px;
+}
