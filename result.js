@@ -1,6 +1,6 @@
 const button = document.getElementById("btn");
 button.addEventListener("click", () => {
-    window.location.href = "/omikuji.html";
+    window.location.href = "index.html";
 });
 
 const 贈る言葉配列 = [
