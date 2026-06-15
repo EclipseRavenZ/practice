@@ -50,6 +50,6 @@ function jumpResult() {
     const 飛ぶ時間 = 2;
 
     setTimeout(() => {
-        window.location.href = "./result.html";
+        window.location.href = "/result.html";
     }, 飛ぶ時間 * 1000);
 }
